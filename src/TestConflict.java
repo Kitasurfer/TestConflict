@@ -9,7 +9,8 @@
 public class TestConflict {
 
     public void testA() {
-        System.out.println("Impl by Develop1");
+
+        System.out.println("Impl by Dev 2");
 
 
 
